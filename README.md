@@ -11,10 +11,8 @@
 ### 📜 Certificate
 
 <p align="center">
-  <img src="./GuviCertification-7d812185840R0fh9C.png" />
+  <img src="./GuviCertification-7d812185840R0fh9C.png" width="800"/>
 </p>
-
----
 
 ## 📊 GUVI – Data Science Career Webinar
 
