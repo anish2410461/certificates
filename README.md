@@ -1,65 +1,55 @@
 # 📜 Certifications Portfolio
 
-Welcome to my certifications repository. This collection highlights my learning journey in Full Stack Development, Cybersecurity, and Data Science.
-
 ---
 
 ## 🏆 GUVI – Full Stack Kanban Project (HCL)
 
 * Built a **Kanban Task Management Application**
-* Learned concepts of full-stack development and project workflows
-* 📅 Date: September 2025
+* Learned full-stack development
+  📅 September 2025
 
-👉 **View Certificate**
-https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/guvi-kanban-project.pdf
+### 📜 Certificate
+
+<p align="center">
+  <img src="./GuviCertification-7d812185840R0fh9C.png" width="800"/>
+</p>
 
 ---
 
 ## 📊 GUVI – Data Science Career Webinar
 
-* Learned roadmap to build a career in **Data Science (2026)**
-* Understood industry trends and required skillsets
-* 📅 Date: November 2025
+* Learned roadmap for **Data Science (2026)**
+* Industry insights & skills
+  📅 November 2025
 
-👉 **View Certificate**
-https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/guvi-data-science-webinar.pdf
+### 📜 Certificate
 
----
-
-## 🔐 HP LIFE – Introduction to Cybersecurity Awareness
-
-* Learned about **cyber threats, online safety, and data protection**
-* Gained foundational cybersecurity knowledge
-* 📅 Date: December 2025
-
-👉 **View Certificate**
-https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/hp-cybersecurity.pdf
+<p align="center">
+  <img src="./WhatsApp Image 2026-02-19 at 12.13.56 AM.jpeg" width="800"/>
+</p>
 
 ---
 
-## 💻 Jyesta x E-Cell IIT Roorkee – Full Stack Web Development Training
+## 🔐 HP LIFE – Cybersecurity Awareness
 
-* Completed hands-on training in **Full Stack Web Development**
-* Built practical skills in frontend & backend technologies
-* 📅 Duration: Dec 2025 – Jan 2026
+* Learned cyber threats & data protection
+  📅 December 2025
 
-👉 **View Certificate**
-https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/jyesta-fullstack-training.pdf
+### 📜 Certificate
 
----
-
-## 🚀 About Me
-
-* 🎓 CSE Student (SSN College of Engineering)
-* 💻 Interested in Full Stack Development & AI
-* 🔗 LeetCode: https://leetcode.com/u/Anish_22062006/
-* 🌐 Project: https://prompt-polishfree-4mgj.vercel.app/
+👉 [Click here to view certificate](./certificate.pdf)
 
 ---
 
-## ⭐ Note
+## 💻 Jyesta – Full Stack Web Development Training
 
-All certificates are uploaded in this repository and are publicly accessible.
-Feel free to explore and verify.
+* Hands-on full-stack training
+  📅 Dec 2025 – Jan 2026
+
+### 📜 Certificate
+
+<p align="center">
+  <img src="./full stack certificate.png" width="800"/>
+</p>
 
 ---
